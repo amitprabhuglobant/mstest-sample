@@ -1,0 +1,12 @@
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+E:\aspnet\dotnetcore\mstest-sample\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+E:\aspnet\dotnetcore\mstest-sample\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\aspnet\dotnetcore\mstest-sample\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+E:\aspnet\dotnetcore\mstest-sample\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+E:\aspnet\dotnetcore\mstest-sample\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb
